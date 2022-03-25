@@ -29,5 +29,5 @@ A movies database app using IMDB API
 - Timber - Logging
 
 ## MAD Score
-!(https://github.com/abinashnp/MoviesApp/raw/master/mad_scorecard/summary.png)
-!(https://github.com/abinashnp/MoviesApp/raw/master/mad_scorecard/jetpack.png)
+![summary](https://github.com/abinashnp/MoviesApp/raw/master/mad_scorecard/summary.png)
+![jetpack](https://github.com/abinashnp/MoviesApp/raw/master/mad_scorecard/jetpack.png)
