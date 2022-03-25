@@ -17,7 +17,7 @@ A movies database app using IMDB API
     - ViewModel - UI related data holder, lifecycle aware.
 - Architecture
     - MVVM Architecture (View - DataBinding - ViewModel - Model)
-    - [Bindables](https://github.com/skydoves/bindables) - Android DataBinding kit for notifying data changes to UI layers.
+    - [Bindables](https://developer.android.com/topic/libraries/view-binding) - Android DataBinding kit for notifying data changes to UI layers.
     - [Dagger 2](https://dagger.dev/) - dependency injection
 - Material Design & Animations
 - [Retrofit2 & Gson](https://github.com/square/retrofit) - constructing the REST API
